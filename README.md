@@ -1,1 +1,2 @@
 # Motion-Detection-asn-Image-Capture
+It is quite simple project as its an extension of out PRS project, in this project we are putting up camera to take pictures of any activity happening on the railway tracks using our motion detection (PIR Sensor) sensor and activating a part of code to start taking a series of pictures which will be fed to our model made in PRS project, which further will detect whether the image fed is alerting or just another thing. Below we have explained our total working of projects.
